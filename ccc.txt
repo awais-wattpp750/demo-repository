@@ -1,3 +1,5 @@
 tripple c first demo
 this is c file and i want to change this
+this is my thir line in c file 
+
 
