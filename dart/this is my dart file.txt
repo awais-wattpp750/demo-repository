@@ -1,3 +1,7 @@
 voi main(){
  ptint("hellow i am awais");
 }
+
+ void sum(int a, int b){
+print(a+b);
+}
