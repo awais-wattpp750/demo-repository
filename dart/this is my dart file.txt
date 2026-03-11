@@ -5,3 +5,6 @@ voi main(){
  void sum(int a, int b){
 print(a+b);
 }
+ void devide(int a, int b){
+print(a/b);
+}
