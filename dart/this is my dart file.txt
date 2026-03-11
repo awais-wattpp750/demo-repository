@@ -1,0 +1,3 @@
+voi main(){
+ ptint("hellow i am awais");
+}
